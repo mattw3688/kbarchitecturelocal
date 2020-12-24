@@ -1,0 +1,52 @@
+nav {
+  a {
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+  }
+  img {
+    position: relative;
+    top: 50%;
+  }
+
+
+}
+
+.navbar-brand {
+
+  height: 15vh;
+  img {
+    width: 25vw;
+  }
+}
+
+.home-page {
+
+  .top-image {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .image-overlay {
+    h1 {
+      font-size: 5rem;
+      letter-spacing: 20px;
+    }
+    h2 {
+      font-size: 2rem;
+      letter-spacing: 5px;
+    }
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+  }
+}
+
+.text-with-title__module {
+  color: black;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
